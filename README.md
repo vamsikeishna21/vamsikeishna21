@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsikeishna21&label=Profile%20views&color=0e75b6&style=flat" alt="vamsikeishna21" /> </p>
 
 <h1 align="center">🙋 Hi, I'm Vamsi Krishna</h1>
-<h2 align="center">Thank you all for visiting my site. I would like to extend a warm welcome to all of you.</h2>
+<h2 align="center">Thank you all for visiting my site. I would like to extend my warm welcome to all of you.</h2>
 
 <img align="right" alt="coding" width="500" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-DATA-ENGINEER.gif">
 
