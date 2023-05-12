@@ -3,6 +3,9 @@
 <h1 align="center">🙋 Hi, I'm Vamsi Krishna</h1>
 <h2 align="center">Thank you all for visiting my site. I would like to extend a warm welcome to all of you.</h2>
 
+<a href="https://learnsql.com/blog/data-analyst-or-data-engineer/cover.png">
+    <img align="right" alt="coding" width="500" src="https://github.com/vamsikeishna21/vamsikeishna21/assets/123713465/c2e9638f-ed14-4e2f-b743-c9991af75ee9">
+</a>
 
 📚 **Projects recently completed** []()
 
