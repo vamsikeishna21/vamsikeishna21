@@ -9,9 +9,14 @@
 📚 **Projects recently completed** []()
 
 📖 **At present, I am learning and polishing my skills.** <br>
-Data scientists  <br> Mathematics:- statistics, calculus, and linear algebra. <br> Statistics <br> Machine learning. <br> Business acumen
+- Data scientists  <br> 
+- Mathematics:- statistics, calculus, and linear algebra. <br> 
+- Statistics <br> 
+- Machine learning. <br> 
+- Business acumen
 
-📌 **Projects I am working** []()
+📌 **Projects I am working** <br>
+- Facebook Data Analysis (Big Data Ecosystem)
 
 👨‍💻 **All of my projects are available at** [Click here](https://github.com/vamsikeishna21?tab=repositories)
 
