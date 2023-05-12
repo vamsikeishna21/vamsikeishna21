@@ -26,6 +26,6 @@ You can find my contact details on my [**portfolio**](https://vamsitarigopula97.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsikeishna21&show_icons=true&locale=en&layout=compact" alt="vamsikeishna21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsikeishna21&show_icons=true&locale=en" alt="vamsikeishna21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsikeishna21&" alt="vamsikeishna21" /></p>
+
+
