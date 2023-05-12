@@ -1,3 +1,5 @@
+![logo](https://github.com/vamsikeishna21/vamsikeishna21/blob/main/how-to-become-a-data-engineer.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsikeishna21&label=Profile%20views&color=0e75b6&style=flat" alt="vamsikeishna21" /> </p>
 
 <h1 align="center">🙋 Hi, I'm Vamsi Krishna</h1>
