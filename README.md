@@ -1,5 +1,3 @@
-![logo](https://github.com/vamsikeishna21/vamsikeishna21/blob/main/how-to-become-a-data-engineer.jpg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsikeishna21&label=Profile%20views&color=0e75b6&style=flat" alt="vamsikeishna21" /> </p>
 
 <h1 align="center">🙋 Hi, I'm Vamsi Krishna</h1>
@@ -31,4 +29,3 @@ You can find my contact details on my [**portfolio**](https://vamsitarigopula97.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsikeishna21&show_icons=true&locale=en" alt="vamsikeishna21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsikeishna21&" alt="vamsikeishna21" /></p>
-
