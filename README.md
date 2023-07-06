@@ -1,9 +1,3 @@
-### Hi there, I am <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
-<div align="center">
-  <h1 style="color: #44AEFB;">👨🏻‍💻 Vamsi Krishna</h1>
-</div>
-
 <div class="footer" align="right" style="margin: 5px;">
     <a href="mailto:vamsitarigopula97@gmail.com" target="_blank">
         <img style="margin: 0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="30px"/>
@@ -12,6 +6,11 @@
         <img style="margin: 0 10px 10px 0;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" width="30" />
     </a>
 </div>
+<div align="center">
+  <h1 style="color: #44AEFB;">👨🏻‍💻 Vamsi Krishna</h1>
+</div>
+
+
 
 <img align="right" alt="coding" width="500" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-DATA-ENGINEER.gif">
 
