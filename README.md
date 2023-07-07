@@ -107,10 +107,5 @@
     <a href="https://www.linkedin.com/in/vamsikrishn/" target="_blank">
         <img style="margin: 0 10px 10px 0;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar"  width="50" />
     </a>
-    <a href="https://stackoverflow.com/users/4214976" target="_blank">
-        <img style="margin: 0 20px 10px 0;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976"  width="50" />
-    </a>
-    </a>
-    <p style="margin-top: 5px;">Phone: +1234567890</p>
 </div>
 
